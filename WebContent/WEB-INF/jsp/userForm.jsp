@@ -28,8 +28,8 @@
 			<td>Country :</td>
 			<td><form:select path="country">
 				<form:option value="0" label="us" />
-				<form:option value="1" label="sec />
-				<form:option value="2" label="sec" />
+				<form:option value="1" label="blr" />
+				<form:option value="2" label="gbp" />
 				<form:option value="3" label="AP" />
 				<form:option value="4" label="can" />
 			</form:select></td>
